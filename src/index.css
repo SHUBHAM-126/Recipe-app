@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700');
+
+body{
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+*{
+  margin:0;
+  box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin-bottom:1em;
+}
+
+input, button{
+  font-family: 'Lato', sans-serif;
+}
+
+.content{
+  max-width: 1280px;
+  width:90%;
+  margin:auto;
+}
+
+.nav-container{
+  background:#f4f4f4;
+}
